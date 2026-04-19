@@ -1,0 +1,5 @@
+CS-506-Project-master/
+driverdata_cleaned/
+*.csv
+.ipynb_checkpoints/
+__pycache__/
